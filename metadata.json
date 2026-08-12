@@ -1,0 +1,6 @@
+{
+  "name": "互動式中文閱讀教學平台",
+  "description": "華語文互動閱讀與教學平台，提供漢字帶聲調拼音、動態隱顯拼音、點選詞語查看解釋與造句發音、全文朗讀、以及教師AI自動分詞與詞庫編輯功能。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
